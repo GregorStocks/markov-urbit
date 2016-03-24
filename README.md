@@ -1,28 +1,26 @@
 # markov-urbit
 
-FIXME: description
+what?
 
 ## Installation
 
-Download from http://example.com/FIXME.
+install lein
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar markov-urbit-0.1.0-standalone.jar [args]
+lein run
 
 ## Options
 
-FIXME: listing of options this app accepts.
+none
 
 ## Examples
 
-...
+nope
 
 ### Bugs
 
-...
+bug-free
 
 ### Any Other Sections
 ### That You Think
@@ -30,7 +28,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Gregor Stocks
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
